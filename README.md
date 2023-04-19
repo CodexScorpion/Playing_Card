@@ -36,5 +36,5 @@ dealCard(): Returns an ArrayList of 5 randomly selected cards from the deck.
 shuffleDeck(): Randomizes the order of the cards in the deck.
 
 
-##Usage:
+## Usage:
 To run the program, compile all three files and run the Main class. The program will display a menu of options for the user to select from. The user can choose an option by entering a number corresponding to the desired operation. The program will then prompt the user for any additional information needed to perform the operation, such as the suit and rank of a card to find. The program will then display the results of the operation.
